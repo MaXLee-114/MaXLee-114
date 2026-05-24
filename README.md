@@ -10,12 +10,9 @@ Técnico Superior en ASIR — apasionado por Linux, automatización y código li
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 🚀 Proyecto actual
-**MedAI Personal** — Plataforma de análisis inteligente de historial médico
-- RAG con LlamaIndex + Ollama (local, sin nube)
-- Análisis forense documental SHA-256
-- FastAPI + React + PostgreSQL
-- Open Source AGPL-3.0
+### 🚀 Proyectos
+Trabajando en proyectos open source relacionados con automatización,
+análisis de datos y sistemas distribuidos. Próximamente en GitHub.
 
 ### 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaXLee-114&show_icons=true&theme=dark&hide_border=true)
