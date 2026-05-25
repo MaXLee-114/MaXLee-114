@@ -1,21 +1,34 @@
-## Hola, soy Max 👋
+# Hola, soy Max 👋
 
-Técnico Superior en ASIR — apasionado por Linux, automatización y código limpio.
+🎓 Técnico Superior en **ASIR** — Administración de Sistemas Informáticos en Red  
+🔧 Apasionado por Linux, redes, automatización y código limpio  
+📍 España  
 
-### 🔧 Stack actual
+---
+
+## 🛠️ Stack y herramientas
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-### 🚀 Proyectos
-Trabajando en proyectos open source relacionados con automatización,
-análisis de datos y sistemas distribuidos. Próximamente en GitHub.
+---
 
-### 📊 Stats
+## 📂 Repositorios
+
+| Repositorio | Descripción |
+|---|---|
+| [asus-merlin-scripts](https://github.com/MaXLee-114/asus-merlin-scripts) | Scripts para routers Asus con firmware Merlin |
+| [asir-scripts](https://github.com/MaXLee-114/asir-scripts) | Scripts de automatización del ciclo ASIR |
+| [asir-servicios](https://github.com/MaXLee-114/asir-servicios) | Configuraciones de servicios: Apache, Nginx, SSH |
+| [asir-documentacion](https://github.com/MaXLee-114/asir-documentacion) | Guías y documentación técnica |
+
+---
+
+## 📊 Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaXLee-114&show_icons=true&theme=dark&hide_border=true)
-
-### 📫 Contacto
-[![Email](https://img.shields.io/badge/Email-maxlee.asir@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maxlee.asir@gmail.com)
